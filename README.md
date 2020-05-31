@@ -8,6 +8,7 @@ Script Solutions of Qwiklabs/Coursera Google Cloud Challenges
 2. Deploy a Compute Instance with a Remote Startup Script ([Lab link](https://www.qwiklabs.com/focuses/1735?parent=catalog))
     * Youtube [Vedio](https://youtu.be/olfgoGIbhe8)
     * Solution Slide [here](https://www.slideshare.net/qursaan/deploy-a-compute-instance-with-a-remote-startup-script)
-3. Migrate a MySQL Database to Google Cloud SQL: Qwiklab Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/1740?parent=catalog))     * Youtube [Vedio](https://youtu.be/7WwLIlHVPIs)
+3. Migrate a MySQL Database to Google Cloud SQL: Qwiklab Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/1740?parent=catalog))
+    * Youtube [Vedio](https://youtu.be/7WwLIlHVPIs)
 
 Don't forget to star repository to keep update
