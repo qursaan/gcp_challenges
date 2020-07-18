@@ -11,7 +11,7 @@ Script Solutions of Qwiklabs/Coursera Google Cloud Challenges
 3. Migrate a MySQL Database to Google Cloud SQL: Qwiklab Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/1740?parent=catalog))
     * Youtube [Vedio](https://youtu.be/7WwLIlHVPIs)
 4. Automate Interactions with Contact Center AI: Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/12008?parent=catalog))
-  * Youtube [Vedio](https://youtu.be/6naKTONVepA)
+    * Youtube [Vedio](https://youtu.be/6naKTONVepA)
 
 
 Don't forget to star repository to keep update
