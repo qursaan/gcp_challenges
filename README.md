@@ -12,6 +12,7 @@ Script Solutions of Qwiklabs/Coursera Google Cloud Challenges
     * Youtube [Vedio](https://youtu.be/7WwLIlHVPIs)
 4. Automate Interactions with Contact Center AI: Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/12008?parent=catalog))
     * Youtube [Vedio](https://youtu.be/6naKTONVepA)
-
+5. Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab ([Lab link](https://www.qwiklabs.com/focuses/10603?parent=catalog))
+    * Youtube [Vedio](https://youtu.be/uFAjpQRuJR0)
 
 Don't forget to star repository to keep update
